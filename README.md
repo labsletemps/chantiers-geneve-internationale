@@ -10,7 +10,6 @@ Voir le projet : http://www.letemps.ch/interactive/2014/chantiers-geneve-interna
 Le Temps vous propose son application interactive cartographique pour explorer les bouleversements présents et futurs de ce quartier de Genève.
 
 - Le projet, en mode visite guidée, s'appuie sur Mapbox (et Mapboxstudio)
-
 - Forké sur le code de la Wag Society : https://github.com/waagsociety/mansholt
 
 A faire : 
