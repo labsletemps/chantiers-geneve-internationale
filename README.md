@@ -1,7 +1,7 @@
 Les chantiers de la Genève Internationale
 ========================================
 
-!(http://www.letemps.ch/rw/Le_Temps/Quotidien/2014/10/03/Suisse/ImagesWeb/scroll1--672x359.jpg)
+![](http://www.letemps.ch/rw/Le_Temps/Quotidien/2014/10/03/Suisse/ImagesWeb/scroll1--672x359.jpg)
 
 Un format de visité guidée interactive, utilisant MApxbox (via MapxBostudio) pour naviguer dans les grands
 
