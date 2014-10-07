@@ -3,7 +3,9 @@ Les chantiers de la Genève Internationale
 
 ![](http://www.letemps.ch/rw/Le_Temps/Quotidien/2014/10/03/Suisse/ImagesWeb/scroll1--672x359.jpg)
 
-Un format de visité guidée interactive, utilisant MApxbox (via MapxBostudio) pour naviguer dans les grands
+Le Temps vous propose son application interactive cartographique pour explorer les bouleversements présents et futurs de ce quartier de Genève.
+
+Le projet, en mode visite guidée, s'appuie sur Mapbox (et Mapboxstudio)
 
 Un projet publié sur le site du Temps (octobre 2014) 
 
